@@ -3,6 +3,11 @@ conan 패키지 매니저 예제
 [conan 사용법 정리 문서 ](http://bit.ly/2WUsxsU )  
   
   
+## Clion에서 Conan 사용하기
+- [Getting Started with the Conan CLion Plugin](https://blog.jetbrains.com/clion/2019/05/getting-started-with-the-conan-clion-plugin/ )
+- [conan-io/conan-clion-plugin](https://github.com/conan-io/conan-clion-plugin  )  
+  
+  
 ## example-poco-timer-linux
 Poco 라이브러리 1.9 버전을 Linux에서 설치하고 CMake에서 사용한 것
   
